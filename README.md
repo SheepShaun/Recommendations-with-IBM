@@ -5,8 +5,10 @@ This project includes four sections:
 
 (1) Exploratory data analysis
 
-(2) Rank based recommendations
+(2) Rank based recommendation
 
 (3) User-User based collaborative filtering
 
-(4) Matrix factorization
+(4) Content based recommendation
+
+(5) Matrix factorization
